@@ -1,6 +1,6 @@
 # Animation Bunny 🐇  
 
-This project is a bunny animation created using **WebGL** as part of the **EECS 3431** course. The main goal of this project is to practice texture mapping using WebGL.  
+This project is a bunny animation created using **WebGL**. The main goal of this project is to practice texture mapping using WebGL.  
 
 ## Features  
 - **WebGL-Based Rendering**: Real-time animation of a bunny object.  
